@@ -18,7 +18,7 @@
 | [Vis ISO7380 M5x16](https://s.click.aliexpress.com/e/_DncI4Id)              | 0     | 2      | 0       | 2     |
 
 - pour ceux qui veulent une courroie qui permet une plus grande tension, moins de vibrations et un peu plus silencieuse :  
-[Courroie GT3 2MGT 6mm pour V2 300mm](https://s.click.aliexpress.com/e/_DEC2uvx) : 3,6m  
+[Courroie GT3 2MGT 6mm pour V2 300mm](https://s.click.aliexpress.com/e/_DEC2uvx) : 3,6m pour une 300
 Sinon la courroie de base suffit, (si vous avez coupé juste avec la version stock, faudrait vérifier la longueur tout de même )
 
 ## Montage des supports moteurs 
