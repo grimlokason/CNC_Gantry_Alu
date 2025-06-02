@@ -1,4 +1,26 @@
 # 2WD
+
+## BOM
+
+| Composants pour deux moteurs    | Avant | Milieu | Arrière | Total |
+|---------------------------------|-------|--------|---------|-------|
+| [Roulement F695](https://s.click.aliexpress.com/e/_DEBDKpV)                  | 4     | 8      | 14      | 26    |
+| [Rondelle de précision M5x10x1mm](https://s.click.aliexpress.com/e/_DBBmIdd) | 4     | 8      | 12      | 24    |
+| [Spacer ID5mm,OD8 x 10mm (D8xM5)](https://s.click.aliexpress.com/e/_Dn40PRb) | 2     | 8      | 2       | 12    |
+| [Entretoise 5mm 20mm taraudé m3](https://s.click.aliexpress.com/e/_DkRGNn9)  | 0     | 0      | 4       | 4     |
+| [Entretoise 5mm 30mm taraudé m3](https://s.click.aliexpress.com/e/_DkRGNn9)  | 2     | 4      | 0       | 6     |
+| [Entretoise 8mm 30mm taraudé m5](https://s.click.aliexpress.com/e/_DkRGNn9)  | 0     | 4      | 0       | 4     |
+| [Vis DIN913 M3x14](https://s.click.aliexpress.com/e/_DkplcHV)                | 0     | 0      | 0       | 0     |
+| [Vis DIN912 M3x10](https://s.click.aliexpress.com/e/_Dd3zsff)                | 4     | 16     | 16      | 36    |
+| [Vis ISO7380 M3x12](https://s.click.aliexpress.com/e/_DncI4Id)               | 2     | 0      | 0       | 2     |
+| [Vis ISO7380 M5x8](https://s.click.aliexpress.com/e/_DncI4Id)              | 0     | 12     | 8       | 20    |
+| [Vis ISO7380 M5x12/14](https://s.click.aliexpress.com/e/_DncI4Id)           | 8     | 0      | 8       | 16    |
+| [Vis ISO7380 M5x16](https://s.click.aliexpress.com/e/_DncI4Id)              | 0     | 2      | 0       | 2     |
+
+- pour ceux qui veulent une courroie qui permet une plus grande tension, moins de vibrations et un peu plus silencieuse :  
+[Courroie GT3 2MGT 6mm pour V2 300mm](https://s.click.aliexpress.com/e/_DEC2uvx) : 3,6m  
+Sinon la courroie de base suffit, (si vous avez coupé juste avec la version stock, faudrait vérifier la longueur tout de même )
+
 ## Montage des supports moteurs 
 ![preview moteurs](./img/01-%20CNC.png)
 ### Montage du support gauche
