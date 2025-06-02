@@ -1,5 +1,6 @@
-# Montage des supports moteurs 
-## Montage du support gauche 
+# Montage des supports moteurs
+![preview moteurs](./img/01- CNC.png)
+## Montage du support gauche
 - Fixer le moteur sur la plaque du dessous avec 4 vis M3x08 et des rondelles  
 - Fixer les entretoises diamètre 5mm, longueur 20mm avec des vis M3x10mm  
 - Déposer deux ensembles à gauche (rondelle de précision M5x8x1mm, roulement F695, roulement F695 - rondelle de précision M5x8x1mm) et un à droite + un spacer 10mm   
