@@ -1,4 +1,4 @@
-# Montage des supports moteurs
+# Montage des supports moteurs 
 ![preview moteurs](./img/01-%20CNC.png)
 ## Montage du support gauche
 - Fixer le moteur sur la plaque du dessous avec 4 vis M3x08 et des rondelles  
