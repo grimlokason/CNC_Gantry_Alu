@@ -6,8 +6,8 @@ description: CNC Gantry Alu by Bluecow Documentation
 markdown: kramdown
 remote_theme: just-the-docs/just-the-docs
 color_scheme: voron-dark
-search_enabled: true
-search.button: true
+search_enabled: false
+search.button: false
 #aux_links:
 #  "Voron Documentation on GitHub":
 #    - "https://github.com/VoronDesign/Voron-Documentation"
